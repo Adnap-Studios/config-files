@@ -1,0 +1,80 @@
+number-of-rows: 6
+menu-items:
+    - displayName: Building Blocks
+      material: TERRACOTTA
+      lore: Click op open!
+      slot: 19
+    - displayName: Weapons
+      material: IRON_SWORD
+      lore: Click op open!
+      slot: 20
+    - displayName: Armor
+      material: IRON_CHESTPLATE
+      lore: Click op open!
+      slot: 21
+    - displayName: Sharpshooter
+      material: BOW
+      lore: Click op open!
+      slot: 22
+    - displayName: Tools
+      material: IRON_PICKAXE
+      lore: Click op open!
+      slot: 23
+    - displayName: Potions
+      material: POTION
+      lore: Click op open!
+      slot: 24
+    - displayName: Utility
+      material: AXOLOTL_SPAWN_EGG
+      lore: Click op open!
+      slot: 25
+shop-items:
+    - displayName: Wool
+      material: RED_WOOL
+      slot: 28
+      amount: 12
+      cost: 4
+      currency: IRON_INGOT
+      menu-item: Building Blocks
+    - displayName: Sandstone
+      material: SANDSTONE
+      slot: 29
+      amount: 6
+      cost: 10
+      currency: IRON_INGOT
+      menu-item: Building Blocks
+    - displayName: Glass Block
+      material: GLASS
+      slot: 30
+      amount: 12
+      cost: 20
+      currency: IRON_INGOT
+      menu-item: Building Blocks
+    - displayName: Oak Planks
+      material: OAK_PLANKS
+      slot: 31
+      amount: 16
+      cost: 24
+      currency: IRON_INGOT
+      menu-item: Building Blocks
+    - displayName: Ladder
+      material: LADDER
+      slot: 32
+      amount: 12
+      cost: 20
+      currency: IRON_INGOT
+      menu-item: Building Blocks
+    - displayName: End Stone
+      material: END_STONE
+      slot: 33
+      amount: 16
+      cost: 20
+      currency: IRON_INGOT
+      menu-item: Building Blocks
+    - displayName: Obsidian
+      material: OBSIDIAN
+      slot: 34
+      amount: 4
+      cost: 40
+      currency: DIAMOND  
+      menu-item: Building Blocks    
