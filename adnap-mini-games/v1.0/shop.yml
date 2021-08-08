@@ -77,4 +77,174 @@ shop-items:
       amount: 4
       cost: 40
       currency: DIAMOND  
-      menu-item: Building Blocks    
+      menu-item: Building Blocks
+
+    - displayName: Wooden Sword
+      material: WOODEN_SWORD
+      slot: 28
+      amount: 1
+      cost: 5
+      currency: IRON_INGOT  
+      menu-item: Weapons
+    - displayName: Stone Sword
+      material: STONE_SWORD
+      slot: 29
+      amount: 1
+      cost: 20
+      currency: IRON_INGOT  
+      menu-item: Weapons      
+    - displayName: Iron Sword
+      material: IRON_SWORD
+      slot: 30
+      amount: 1
+      cost: 20
+      currency: IRON_INGOT  
+      menu-item: Weapons
+    - displayName: Golden Sword
+      material: GOLDEN_SWORD
+      slot: 31
+      amount: 1
+      cost: 10
+      currency: GOLD_INGOT  
+      menu-item: Weapons
+      enchantments: sharpness:2
+    - displayName: Diamond Sword
+      material: DIAMOND_SWORD
+      slot: 32
+      amount: 1
+      cost: 10
+      currency: DIAMOND  
+      menu-item: Weapons
+    - displayName: Powered Diamond Sword
+      material: DIAMOND_SWORD
+      slot: 33
+      amount: 1
+      cost: 30
+      currency: DIAMOND  
+      menu-item: Weapons
+      enchantments: sharpness:5
+    - displayName: Knockback Stick
+      material: STICK
+      slot: 34
+      amount: 1
+      cost: 10
+      currency: GOLD_INGOT  
+      menu-item: Weapons
+      enchantments: knockback:2
+
+    - displayName: Bow
+      material: BOW
+      slot: 28
+      amount: 1
+      cost: 5
+      currency: DIAMOND  
+      menu-item: Sharpshooter   
+    - displayName: Power Bow
+      material: BOW
+      slot: 29
+      amount: 1
+      cost: 15
+      currency: DIAMOND  
+      menu-item: Sharpshooter
+      enchantments: power:3
+    - displayName: Punch Bow
+      material: BOW
+      slot: 30
+      amount: 1
+      cost: 20
+      currency: DIAMOND  
+      menu-item: Sharpshooter
+      enchantments: punch:3
+    - displayName: Arrow
+      material: ARROW
+      slot: 31
+      amount: 16
+      cost: 20
+      currency: GOLD_INGOT  
+      menu-item: Sharpshooter
+    - displayName: Arrow
+      material: ARROW
+      slot: 32
+      amount: 64
+      cost: 80
+      currency: GOLD_INGOT  
+      menu-item: Sharpshooter
+
+    - displayName: Stone Pickaxe
+      material: IRON_PICKAXE
+      slot: 28
+      amount: 1
+      cost: 40
+      currency: IRON_INGOT  
+      menu-item: Tools  
+    - displayName: Iron Pickaxe
+      material: IRON_PICKAXE
+      slot: 29
+      amount: 1
+      cost: 10
+      currency: GOLD_INGOT  
+      menu-item: Tools   
+      menu-item: Tools  
+    - displayName: Diamond Pickaxe
+      material: DIAMOND_PICKAXE
+      slot: 30
+      amount: 1
+      cost: 5
+      currency: DIAMOND  
+      menu-item: Tools 
+      menu-item: Tools  
+    - displayName: Powered Diamond Pickaxe
+      material: DIAMOND_PICKAXE
+      slot: 31
+      amount: 1
+      cost: 30
+      currency: DIAMOND  
+      menu-item: Tools
+      enchantments: efficiency:5  
+    - displayName: Wooden Axe
+      material: WOODEN_AXE
+      slot: 32
+      amount: 1
+      cost: 10
+      currency: IRON_INGOT  
+      menu-item: Tools
+    - displayName: Iron Axe
+      material: IRON_AXE
+      slot: 33
+      amount: 1
+      cost: 30
+      currency: GOLD_INGOT  
+      menu-item: Tools
+    - displayName: Powered Diamond Axe
+      material: DIAMOND_AXE
+      slot: 34
+      amount: 1
+      cost: 20
+      currency: DIAMOND  
+      menu-item: Tools
+      enchantments: efficiency:5 
+
+    - displayName: Leather Armor
+      armor-set: true
+      material: LEATHER
+      slot: 28
+      amount: 1
+      cost: 20
+      currency: IRON_INGOT  
+      menu-item: Armor
+    - displayName: Chainmail Armor
+      armor-set: true
+      material: CHAINMAIL
+      slot: 29
+      amount: 1
+      cost: 10
+      currency: GOLD_INGOT  
+      menu-item: Armor
+    - displayName: Iron Armor
+      armor-set: true
+      material: IRON
+      slot: 30
+      amount: 1
+      cost: 20
+      currency: DIAMOND  
+      menu-item: Armor
